@@ -1,5 +1,5 @@
 ## Overview
-**vidyoplatform-connector-macos** is a [VidyoPlatform](https://vidyo.github.io/vidyoplatform.github.io) reference application highlighting how to integrate video chat into a native macos app.
+**vidyoplatform-connector-macos** is a [VidyoPlatform](https://vidyo.github.io/vidyoplatform.github.io) reference application highlighting how to integrate video chat into a native macOS app.
 
 ## Acquire VidyoClient macOS SDK
 Download the latest VidyoClient macOS SDK package [here](https://static.vidyo.io/latest/package/VidyoClient-OSXSDK.zip) and unzip it.
