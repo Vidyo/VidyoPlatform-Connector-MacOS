@@ -1,6 +1,12 @@
 # vidyoplatform-connector-macos
 
-1. Download latest VidyoClient-OSXSDK from: https://static.vidyo.io/latest/package/VidyoClient-OSXSDK.zip<br/>
-2. Pull this repository into the VidyoClient-OSXSDK/samples directory.<br/>
-3. Open the Xcode project under VidyoClient-OSXSDK/samples/vidyoplatform-connector-macos/<br/>
-4. Build and run.
+## Acquire VidyoClient macOS SDK
+Download the latest VidyoClient macOS SDK package [here](https://static.vidyo.io/latest/package/VidyoClient-OSXSDK.zip) and unzip it.
+
+## Clone Repository
+Navigate to the *VidyoClient-OSXSDK/samples/* directory and clone the repository at that location:<br/>
+git clone https://github.com/Vidyo/vidyoplatform-connector-macos.git
+
+## Build and Run Application
+1. Open the Xcode project *VidyoClient-OSXSDK/samples/vidyoplatform-connector-macos/VidyoConnector.xcodeproj* in Xcode 8.0 or later.
+2. Build and run the application.
